@@ -25,4 +25,4 @@ Some of the tasks include autonomous navigation, soil and signs of life analysis
 Since the rover is a cumulative and iterative process, I have contributed to the Avionics and Ground Navigation Control subsytems.  In Avionics, I helped with the design and implemention of a 7s battery and with various electronics wiring tasks across the rover.  Currently, I am part of the GNC subsystem and my main task is to setup long distance wireless communication across 900 Mhz and 2.4 Ghz frequencies   
 
 
-You can learn more at the [Robotics Space Exploration RoSE VIP]([https://manoa.hawaii.edu/news/article.php?aId=2857](https://manoa.hawaii.edu/uh-vip/project/robotic-space-exploration-rose-vip/)).
+You can learn more at the [Robotics Space Exploration RoSE VIP](https://manoa.hawaii.edu/uh-vip/project/robotic-space-exploration-rose-vip/).

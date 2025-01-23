@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Team RoSE Logo.png
+image: img/PowerA-GameCube-Style-Wired-Controller-for-Nintendo-Switch.jpg
 title: "SimpleLLC"
 date: 2025
 published: true

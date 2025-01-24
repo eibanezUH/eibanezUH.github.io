@@ -19,4 +19,4 @@ The other major part of software engineering is that it is within the job descri
 I would say that from my understanding of software engineering, it is a major cornerstone of the STEM and Technological sector.  While major advancements can come in the form of prototypes, theory, garage startups, and random discourse in unofficial forums, proper software engineering is something much more infallible.  I think that emphasis on upkeep and mindfulness of factors such as culture, language, and global standards, are things that are too important to forget and software engineering is that task that addresses them.  I hope to learn more about the methods and beliefs that set software engineers apart from mere programmers and developers and to internalize them within myself.  I hope that by doing so, I can become a more mindful and multifaceted thinker which can improve the quality of all work no matter what field it may be in. 
 
 
-<img width="200px" class="rounded float-start pe-4" src="img/file-20210111-23-bqsfwl (1).jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/file-20210111-23-bqsfwl (1).jpg">

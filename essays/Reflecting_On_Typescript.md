@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "What sets it apart"
+title: "Just my Type"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-23
 published: true
@@ -15,4 +15,4 @@ From a software engineering perspective, I think that bringing more to reinforce
 
 I think that athletic software engineering is a good way to help supplement quick learning and acquisition of a programming language if the right materials and resources are provided.  The WODS are great but as a complete noob at the language, my main issues take the form of not knowing the exact syntax or methods required to implement a solution.  It is enjoyable, but I often have to rely on outside sources to be able to gather that information in the short time of the WOD unless I opt to just try again.  I think that it will work for me but more practice before each WOD will be needed.  With not knowing the exact topic of each of them, there is an implicit requirement to do research on a wide range of topics so that you can at least have knowledge of what is out there.  Then it would be much easier to find out how to implement it when the time comes during the actual WOD.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/How-to-make-a-one-minute-timer.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/How-to-make-a-one-minute-timer.jpg">

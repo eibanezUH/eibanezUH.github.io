@@ -1,45 +1,49 @@
 ---
 layout: essay
 type: essay
-title: "No such thing as a stupid question"
-# All dates must be YYYY-MM-DD format!
+title: "No Such Thing as a Stupid Question"
 date: 2025-01-30
 published: true
 labels:
   - Software Engineering
 ---
+
 ## Something Smart
-Smart question are important so that the software engineering industry as a whole can improve.  Smart questions not only help to build highly useful and powerful sources of information but also help to reduce the number of dumb questions which do the exact opposite.  No smart questions foster repetitiveness and non-unique keystrokes which only reword things that have already been well enough explained or vetted out.  
 
-<img width="200px" 
-     class="rounded float-start pe-4" 
-     src="../img/Smart Question.png" >
+Smart questions are important so that the software engineering industry as a whole can improve. Smart questions not only help build highly useful and powerful sources of information but also help reduce the number of dumb questions, which do the exact opposite. No smart questions foster repetitiveness and non-unique keystrokes, which only reword things that have already been well explained or vetted.
 
-I'd argue that this is a smart question.  This question shows that research has been done and I'd argue that the complexity and topic of the question matches the forum that it is being posted.  And as a result we can see that we get good advice.
+<div style="text-align: center; margin-bottom: 20px;">
+    <img width="400px" class="rounded" src="../img/Smart Question.png">
+</div>
 
+I'd argue that this is a smart question. This question shows that research has been done, and I'd argue that the complexity and topic of the question match the forum where it is being posted. As a result, we can see that we get good advice.
 
-<img width="200px" 
-     class="rounded float-start pe-4" 
-     src="../img/Smart Answer.png" >
-     
-Personal anecdotes do make up good advice and I would say that it was encouraged by the proper asking of the question that we see.  Without having expressed and done prior research and effort and providing a well-asked question, the answer would have simply been to search it up yourself or read a book about it which is a very obvious answer.
+<div style="text-align: center; margin-bottom: 20px;">
+    <img width="400px" class="rounded" src="../img/Smart Answer.png">
+</div>
 
-## Something No So
+Personal anecdotes make up good advice, and I would say that they were encouraged by the proper asking of the question. Without expressing and doing prior research and effort, and providing a well-asked question, the answer would have simply been to "search it up yourself" or "read a book about it," which is a very obvious answer.
 
-For an example of a not so smart question look no further.
+---
 
-<img width="200px" 
-     class="rounded float-start pe-4" 
-     src="../img/Stupid Question.png" >
+## Something Not So Smart
 
-Although I am guilty of relying on stack overflow posts like this myself, anything that can be answered by simply searching up documentation is very troubling.  As the documentation was made with thoughtfulness and effort to help those, especially beginners, to do these sorts of tasks.
+For an example of a not-so-smart question, look no further.
 
-<img width="200px" 
-     class="rounded float-start pe-4" 
-     src="../img/Stupid Answer.png" >
+<div style="text-align: center; margin-bottom: 20px;">
+    <img width="400px" class="rounded" src="../img/Stupid Question.png">
+</div>
 
-while the answer was well written and throurough, it is a repeated creation of the original documentation which is readily available as well.  A not so smart question gets a less than valueable answer.
+Although I am guilty of relying on Stack Overflow posts like this myself, anything that can be answered by simply searching documentation is very troubling. Documentation is made with thoughtfulness and effort to help those, especially beginners, accomplish these sorts of tasks.
 
-##To Conclude
+<div style="text-align: center; margin-bottom: 20px;">
+    <img width="400px" class="rounded" src="../img/Stupid Answer.png">
+</div>
 
-I think that if we were to decrease the number of not so smart questions, things would be pretty interesting.  While it might be slightly more intimidating for beginners to get into things such as programming, I think that it would help to foster people to be more courageous and thorough.  To ask questions can be scary but people would be able to find comfort that they at least asked a good question.
+While the answer was well-written and thorough, it is a repeated creation of the original documentation, which is readily available. A not-so-smart question gets a less valuable answer.
+
+---
+
+## To Conclude
+
+I think that if we were to decrease the number of not-so-smart questions, things would be pretty interesting. While it might be slightly more intimidating for beginners to get into programming, I think it would help foster people to be more courageous and thorough. Asking questions can be scary, but people would find comfort in knowing that they at least asked a good question.

@@ -27,14 +27,13 @@ A big part of the coding world is unity.  While the number of frameworks are vas
 
 Some might argue that it isn't worth learning frameworks like Bootstrap 5.  But the thing is it will always be a worthwhile investment.  Learning Bootstrap 5 was a bit a learning curve which required me to change the way I thought about HTML and CSS.  Had I learned it earlier it would have been easier but old habits and practices were rooted in me.  Despite the effort of unlearning and learning new Bootstrap 5 frameworks, I would say that it was worth it.  It makes development much quicker and streamlined.  And, I personally adore not having to scroll or click back and forth between large CSS files.  It truly does reduce the repetitiveness of having to configure CSS fields which can be easily controlled by changing a couple characters.
 
-
-
 <p align="center">
-  <img src="../img/Oxford Comma Example.png" alt="Oxford Comma Example">
+  <img src="..img/bootstrap 5 meme.jpg" alt="Bootstra 5 meme">
 </p>
 
   
 
 ## Conclusion
 
+More times then not, Bootstrap will help to increase the ease of development and unify coding standards to improve efficiency.  Despite some of the limitation that frameworks like Bootstrap 5 can impose on configurations of their preset classes, its many other benefits are worth the learning curve as well as any other issues and flaws people may see in it. 
 

@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "The Oxford Comma?"
+title: "How to Framework"
 # All dates must be YYYY-MM-DD format!
-date: 2025-02-7
+date: 2025-02-27
 published: true
 labels:
   - HTML
@@ -11,7 +11,7 @@ labels:
   - CSS Frameworks
 ---
 
-## Oxford Comma?
+## There are x many ways to x a cat 
 
 A Coding Framework is a library or standard which adds onto existing languages providing a new sense of organization and functionality.  Frameworks can redfine the process to create code which changes the coding experience as well as the product.  But often times, frameworks don't seek to make a product different then the code made without a framework.  So why make multiple ways to get to the same goal?  
 
@@ -29,17 +29,9 @@ Some might argue that it isn't worth learning frameworks like Bootstrap 5.  But 
 
 
 
-
-
-In case you aren't already familiar, the Oxford comma is an English grammar notation in which a list of items in a sentence are all separated by commas.  Especially, the item after the conjunction such as and.  For example: I love Javascript, ESLInt, and VsCode.  The extra comma helps to solidify the list like nature and the equivalence of all elements.  There are many hilarious examples of the confusion that occurs when the Oxford comma is omitted.  For Example:
-
 <p align="center">
   <img src="../img/Oxford Comma Example.png" alt="Oxford Comma Example">
 </p>
-
-This simple example from a website shows how while the reader is able to come to the correct conclusion about what is being said, having the Oxford Comma could have helped to prevent that and improve first read-through clarity.
-
-## Why we should follow suit
 
   
 

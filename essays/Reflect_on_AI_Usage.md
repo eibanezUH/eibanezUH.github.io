@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "The Oxford Comma?"
+title: "How to use Skynet in the Classroom"
 # All dates must be YYYY-MM-DD format!
-date: 2025-02-7
+date: 2025-05-9
 published: true
 labels:
-  - Typescript
-  - VsCode
-  - ESLint
+  - AI
+  - ChatGPT
+  - Grok
 ---
 
 ## Introduction

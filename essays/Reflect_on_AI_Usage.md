@@ -11,24 +11,62 @@ labels:
   - ESLint
 ---
 
-## Oxford Comma?
+## Introduction
 
-In case you aren't already familiar, the Oxford comma is an English grammar notation in which a list of items in a sentence are all separated by commas.  Especially, the item after the conjunction such as and.  For example: I love Javascript, ESLInt, and VsCode.  The extra comma helps to solidify the list like nature and the equivalence of all elements.  There are many hilarious examples of the confusion that occurs when the Oxford comma is omitted.  For Example:
+In modern education, the presence of easily accessible AI has caused many changes and now has a large role in the day to day of Software Engineers.  I myself have used AI tools throughout this class and my time as a student to accomplish various tasks.  The AI that I use most include ChatGPT and Grok.  In general the main concepts that AI can be used for in Software Engineering are code generation, code editing, debugging, researching, organization, and suggesting good choices in action.
 
-<p align="center">
-  <img src="../img/Oxford Comma Example.png" alt="Oxford Comma Example">
-</p>
+Generally the free version of ChatGPT was good for programming but often struggled with more difficult tasks.  I often used it instead to fact check and cross reference ideas and code from Grok or when I ran out of Grok free queries.  Grok proved to be much more consistent and correct in its code as ChatGPT often failied to even make code that had no syntax errors.
 
-This simple example from a website shows how while the reader is able to come to the correct conclusion about what is being said, having the Oxford Comma could have helped to prevent that and improve first read-through clarity.
+## Personal Experience with AI
 
-## Why we should follow suit
+1. For Experience WODs, i used AI to help me if I ever got in the realm of DNF.  I often used to it to ensure that i finished the WOD in the time that it took for an acceptable submission.  This meant using it to generate additional code and debug what I had wrote.  My mindset was that practicin to use AI in such a time constraint would prove beneficial for the In-class WODs since in the end a major goal within the class was to do well in the WODs.
 
-I think that coding standards are very similar.  Typescript as a whole seeks to address this in a very serious manner by enforcing and erroring out when variables and functions lack the proper type declarations.  I think that with all things, a product is only as good as its weakest part.  While this analogy is very known I think that many people don't really internalize it.  Coding languages with fancy functional methods and object-oriented programming may seem like good code, but if it can error out simply based on types alone then I'd argue that code is no better than a "Hello World" statement.  From security reasons to just ensuring a well-engineered product the true details of code lie in the little things such as Coding Standards.
+2. For the inclass practice WODs I used AI to anaylyze my approach after I had spent the class period working on it.  I would even show what the AI suggested to those peers near me to see what their AI was outputting to maybe see how I could better prompt my AI.
 
-I have had experience with linters via C and C++ but I'd say that ESLint with Javascript and Typescript was a significantly different experience.  At least with the linter that we are using, it's very picky by default.  At first, this annoyed me because I felt these things were too trivial to be throwing full-blown red errors on my screen.  But after I read the type of lint error that was thrown I realized that they all had high validity in being there.  After resolving all the lint errors I found that my code not only looked better but also had no fault.  All the types and returns were properly defined.  No extraneous variables were left uncalled.  
+3. For In-class WODS I used AI to make sure that I completed them on time to full completition. AI supplemented my understanding of the code steps by helping me code them out.  I had to make sure that I fed it more then just the prompt for later WODs as the number of files that the wods spanned increased.
 
-The last thing that I can only hypothesize about the benefits of Coding Standards is the ease of readability and comprehension.  Currently, I haven't read enough code or even been in an industry where being able to quickly understand and read code is a vital resource and measurement.  As it was discussed in the class the majority of software engineering work is maintenance and updating.  If a coder has to first understand the type of coding layout the coder used before being able to start understanding the code, much time is wasted and over time leads to major losses in productivity.  
+4. For Essays, AI helped me with getting familiar with the Markdown and github portolfio management.  The essay writing itself wasn't a task that I resigned to AI since the personal nature of the essays require a personal touch.  I also did not trust AI to properly spellcheck without changing the intent and verbage for my essays.
+
+5. For the Final Project.  AI was very useful in all aspects of the project since it helped with implementing different features and debugging very obfuscated issues such as login and server issues.  It was also a good resource in properly using Github to improve our workflow and carefully work through merging and pulling.  While the overall project could not be programmed with a single query, I treated each page as its own task as much as possible and had the AI help me in developing that page.  Certain features like login were more difficult and help from peers actually trumped the help AI was able to due its inability to know exactly every circumstance what we were working with.
+
+6. When learning a concept AI was good as you could essentially zoom in and out of the topic and ask for explanations at different levels.  While sometimes it assumed that you knew the definition and went over board with further steps in understanding, it was still easily possible to get all the information you needed to better understand the topic
+
+7. I personally never used AI to answer questions in class or discord.  I only felt comfortable answering questions in class and in discord if I felt confident enough that I knew it without AI.  My belief being that it would be pointless in giving an answer generated by AI when other peers have access to AI themselves.  Annecdotal answers are more useful and insightful in my opinion.
+
+8. The same goes as above since smart-questions was the primary place in which people look for advice from people that are working on the same exact problems with nearly similar or even identical circumstances.  Operating Systems, IDEs, even the AI that they were using.  While the annecdotal advice came from working with AI, using it further to answer questions wouldn't be that helpful
+
+9. Coding examples are helpful when learning a new topic or trying to get a deeper understanding on a function or process that may be difficult to mentally imagine.  I often always ask for output to accompany the code snippet if its appliable to help further understand the topic.
+
+10. Explaining code is great for AI expecially if the code was made using abstract and more advance techniciques.  Explaining code was useful throughout the final project and when looking at sample and solution code that was provided by the professors
+
+11. Writing code is what AI is mostly used for and I used this feature a lot.  Its also one of the most appealing aspects of AI and can be a task that takes some nuance and practice in making sure the generated code is exactly what you want.
+
+12. AI often creates comments for code that explain sections.  I would say that sometimes i explcitly ask for comment especially for code which i know is going to require many changes and knowing where I might need to apply them becomes very important.
+
+13. Especially for the final project which required ESLint and Build to run clean.  Many issues while common and searchable online become easily fixable with AI which can speed up building and testing.  
+
+## Impact on Learning and Understanding
+
+I would say that AI has aided my learning process and developing experience with coding in this class.  The duration of trial and error would have been much larger which could reduce information retention and increase stress.  Overall I would say that it has enhanced my understanding of software engineering concepts by helping me learn and implement them and showing me many different ways to solve problems
+
+## Practical Applications
+
+AI has a use in all tasks as it can be a more interactive serach engine to help people learn about things for the first time.  While it may not always be able to generate certain things and create physical objects it can help equip you with the tools to do it yourself.  It can help you get started using software engineering tools and even tell you what tools you should be using in the first place.
+
+## Challenges and Opportunites
+
+AI struggles from retention and remembering previous facts and following directives that are not part of its normal configuration.  I.e shortening responses and remembering certain configurations which were done prior.  It can need reminders about certain parameters and can also get stuck in loops where it only gives the same solution without truly providing a new angle/approach.  I often have to restart sessions because it becomes stubbornly stuck on an approach which I have already told it is not that ideal.
+
+## Comparative Analysis
+
+I think that for those who might struggle with difficult topics and the intimidation factor of research topics, having AI can help to bridge the gap if used correctly.  It can help with the understanding of truly advanced topics and allow for interactive discourse which is more beneficial for the average person then simply reading documentation.  
+
+## Future Considerations
+
+As AI advances it will continue to help people tackle difficult challenges and aid learning as long as its used properly.  Making sure not to over rely on AI is a big point of concern as well.  I think that allowing people to continue using AI in classes like this is a good move but should also be done carefulyl and mindfully.
 
 ## Conclusion
 
-In the end, following Coding Standards can help with bug prevention, security, and ease of understanding which boosts productivity.  It can also have smaller more subtle benefits as increasing unity amongst all coders who, no matter their line or place of work can feel connected to all programmers who share the language and standards.  We should continue to develop and enforce Coding Standards for all languages so that the quality of coding as a whole can continue to increase.
+Overall I think that AI has a home in classes like this and in software engineering as a whole. Encouraging the usage of is a good thing since it can be used to increase productivity and learning in all areas of the class.  I hope that my personal experiences are a good persepctive and when viewed alongside other peoples experiences can help guide understanding on how AI should be applied in classes and in software engineering. 
+
+

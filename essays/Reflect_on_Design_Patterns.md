@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "How to use Skynet in the Classroom"
+title: "Reflecting on Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-10
 published: true

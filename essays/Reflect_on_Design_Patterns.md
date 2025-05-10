@@ -6,9 +6,8 @@ title: "Reflecting on Design Patterns"
 date: 2025-05-10
 published: true
 labels:
-  - AI
-  - ChatGPT
-  - Grok
+  - Design
+  - Coding
 ---
 
 ## The Symphony of Code: Weaving Design Patterns into Software

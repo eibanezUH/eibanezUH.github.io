@@ -4,7 +4,7 @@ type: essay
 title: "How to use Skynet in the Classroom"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-9
-published: true
+published: false
 labels:
   - AI
   - ChatGPT

@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "No Such Thing as a Stupid Question"
 date: 2025-01-30
-published: true
+published: false
 labels:
   - Software Engineering
 ---

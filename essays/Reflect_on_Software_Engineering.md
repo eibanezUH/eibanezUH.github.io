@@ -4,7 +4,7 @@ type: essay
 title: "Beyond Web App Development"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-9
-published: true
+published: false
 labels:
   - Software Engineer
   - Agile Project Management

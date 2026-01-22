@@ -4,7 +4,7 @@ type: essay
 title: "The Oxford Comma?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-7
-published: true
+published: false
 labels:
   - Typescript
   - VsCode

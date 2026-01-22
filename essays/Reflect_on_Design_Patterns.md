@@ -4,7 +4,7 @@ type: essay
 title: "Reflecting on Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-10
-published: true
+published: false
 labels:
   - Design
   - Coding

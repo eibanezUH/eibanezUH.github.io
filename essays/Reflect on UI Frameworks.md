@@ -4,7 +4,7 @@ type: essay
 title: "How to Framework"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-27
-published: true
+published: false
 labels:
   - HTML
   - CSS

@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Ethan Ibanez",
-    "label": "Student",
+    "label": "Graduate Student",
     "picture": "https://github.com/eibanezUH.png",
     "email": "eibanez@hawaii.edu",
     "phone": "808-798-0331",
     "website": "https://eibanezuh.github.io/",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Fall, 2025.",
+    "summary": "I am studying for a M.S. in Computer Engineering and Electrical Engineering at the University of Hawaii at Manoa. I expect to graduate in Fall, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "eibanezUH", "url": "https://github.com/eibanezUH" },
@@ -20,7 +20,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C++", "Pythong" ]
+      "keywords": [ "C++", "Python" ]
     },
     {
       "name": "Toolsets/OS",
@@ -30,9 +30,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer and Electrical Engineering (expected Fall, 2026)",
+      "studyType": "M.S.",
+      "startDate": "2026-12-01",
       "endDate": "Present",
       "courses": [
       ]
